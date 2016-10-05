@@ -1,0 +1,6 @@
+datanode=https://www.dropbox.com/s/zjw9y1ilcgkecxp/datanode.tar.gz
+masternode=https://www.dropbox.com/s/nkfd8sqsb7hevu4/masternode.tar.gz
+sparkVersion=1.6.2
+hadoopVersion=2.6.4
+scalaVersion=2.11.8
+masterNetworkName=something
